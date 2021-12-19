@@ -1,6 +1,6 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+// Source: https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
 import compareTriplets from './compareTriplets';
 
 function main() {
